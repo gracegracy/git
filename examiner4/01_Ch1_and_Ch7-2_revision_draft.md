@@ -2,261 +2,152 @@
 title: "Revision draft — Examiner 4, Comments 1 & 2 (with Suggestions 5 & 6): Chapter 1 and new Section 7.2"
 ---
 
-> **How to use this draft.** Normal text is the proposed thesis text, to be pasted in and marked **purple** as a second-round revision. Grey italic boxes like this one are notes for you. They are not thesis text. New tables and figures are labelled "Table [new-1]" and so on. Insert them with Word's *Insert Caption* so that all later table and figure numbers update automatically. Inserting them will shift the existing numbering, which matters because Examiner 4 already flagged numbering errors.
+> *Notes to you are in grey italic boxes like this one. Everything else is proposed thesis text, to be marked purple. Insert the new tables and the figure with Word's Insert Caption so the numbering of later tables and figures updates automatically.*
 
 # PART A — CHAPTER 1 REVISIONS
 
-## A1. Section 1.2 Research objectives: replace the first paragraph
+## A1. Section 1.2 Research objectives: replace the opening paragraph
 
-> *Replaces the paragraph that begins "The overall objective of this thesis is to investigate…". Also correct Objective 4 from "Study 4 (Chapter 7)" to "Study 4 (Chapter 6)" (Examiner 4, typo item 1).*
+> *Replaces the paragraph beginning "The overall objective of this thesis is to investigate…". Also correct Objective 4 to "Study 4 (Chapter 6)".*
 
-The overall objective of this thesis is to investigate how technological development in transport infrastructure, with a focus on ports, relates to innovation capability, operational productivity and sustainability across national, organisational and operational levels. The factors that explain technology advancement differ by level of analysis. Each empirical study is therefore conducted in the context where the relevant variation can be observed and comparable data are available: European countries for the national-level study (Chapter 4), Chinese container terminal operators for the organisational-level study (Chapter 5), and harbour craft in the Port of Singapore for the operational-level study (Chapter 6). The thesis thus follows a multi-level, multi-context design. It does not estimate a single pooled model across the three contexts. Instead, it links the studies through the theoretical mechanisms they share and through an explicit assessment of how country-specific factors condition the findings (Section 7.2). The rationale for each empirical context is given in Section 1.4. To achieve the overall aim, the research is structured around the following specific objectives:
+The overall objective of this thesis is to investigate how technological development in transport infrastructure, with a focus on ports, relates to innovation capability, operational productivity and sustainability at the national, organisational and operational levels. Because the factors that explain technology advancement differ from one level of analysis to another, each empirical study is conducted in the setting where the relevant variation can be observed and comparable data are available. The national-level study draws on European countries (Chapter 4), the organisational-level study on Chinese container terminal operators (Chapter 5), and the operational-level study on harbour craft in the Port of Singapore (Chapter 6). The thesis therefore adopts a multi-level, multi-context design. Rather than estimating a single pooled model across the three settings, it connects the studies through the theoretical mechanisms they share and through an explicit assessment of how country-specific factors condition the findings (Section 7.2). The rationale for the choice of each setting is set out in Section 1.4. To achieve this aim, the research is structured around the following specific objectives:
 
 ## A2. New Section 1.4 Rationale for the empirical contexts
 
-> *Insert after Section 1.3 Research scope. The current Sections 1.4–1.6 become 1.5–1.7. Update any cross-references to them.*
+> *Insert after Section 1.3. The current Sections 1.4–1.6 become 1.5–1.7.*
 
 **1.4 Rationale for the empirical contexts**
 
-The three empirical studies in this thesis are deliberately set in different contexts. The choice follows the logic of purposive, information-oriented case selection. The setting of each study is chosen because it offers the variation and data needed to answer a specific research question, not because it is statistically representative of all ports (Flyvbjerg, 2006; Seawright & Gerring, 2008). In a multi-level research design the relevant source of variation differs between levels (Kozlowski & Klein, 2000):
+The three empirical studies in this thesis are deliberately situated in different contexts. The selection follows the logic of purposive, information-oriented case selection, in which a setting is chosen because it offers the variation and data required to answer a particular research question rather than because it is statistically representative of all ports (Flyvbjerg, 2006; Seawright & Gerring, 2008). In multi-level research, the relevant source of variation differs between levels (Kozlowski & Klein, 2000). National-level determinants, such as government incentives for research and development (R&D), can be estimated only from differences between countries. Organisational-level dynamics, such as equipment deployment and the effect of ownership, are best identified by comparing many organisations that operate under the same national institutional regime. Operational-level performance, in turn, requires high-frequency data from a technology that is actually being deployed. As no single country satisfies all three conditions, each study is located in the setting that best meets the requirements of its level of analysis (Table [new-1]).
 
-- National-level determinants, such as government R&D incentives, can only be estimated from differences between countries.
-- Organisational-level dynamics, such as equipment deployment and ownership effects, are best identified by comparing many organisations that operate under the same national institutional regime.
-- Operational-level performance requires high-frequency data from a technology that is actually being deployed.
+At the national level, Chapter 4 requires cross-national variation in government incentives, innovation input and technology capability, measured on a comparable basis. European countries meet this requirement for three reasons. First, the data are harmonised. Project-level information is drawn from the European Commission's Transport Research and Innovation Monitoring and Information System (TRIMIS), which records transport research and innovation projects under common reporting conventions (European Commission, 2023b), while national R&D indicators follow the definitions of the Frascati Manual (OECD, 2015). Second, the countries share a broadly common policy framework: most projects in the sample are funded by the European Commission or by European national governments under common programme rules, and most of the countries belong to the Continental European port doctrine, in which ports are regarded as part of wider public infrastructure (Lee & Flynn, 2011). Third, considerable variation exists within this common framework. National innovation systems in Europe remain diverse (Kaiser & Prange, 2004), and the European Innovation Scoreboard distinguishes innovation leaders, concentrated in Northern and Western Europe, from moderate and emerging innovators, many of which are in Southern and Eastern Europe (European Commission, 2024). The combination of comparable measurement and substantial differences in innovation capability and public support makes European countries an appropriate setting for testing the hypothesised national-level relationships, which a single-country design, with national policy held essentially constant, could not identify.
 
-No single country provides all three conditions. Table [new-1] summarises the rationale, and the following paragraphs explain it.
+At the organisational level, Chapter 5 requires a large panel of container terminals that differ in equipment, workforce and ownership while operating under the same national governance framework, so that organisational effects are not confounded with differences between national systems. China provides such a setting. It has the largest container port throughput of any country (UNCTAD, 2025) and has invested heavily in port equipment and automation; by late 2024, the Ministry of Transport reported 52 fully automated terminals, the largest number of any country (Xinhua, 2025). The growth in throughput and equipment during the study period therefore offers the variation needed to model how equipment deployment responds to throughput over time. At the same time, Chinese ports have developed along a common governance path since the Port Law of 2004, which decentralised port administration to municipal governments and opened the sector to mixed and foreign investment within a framework of national policy guidance (Notteboom & Yang, 2017). This produces a population of terminal operators with state, mixed and private ownership under a single national regime, which is the variation required to examine the relationship between ownership and technological progress. In addition, the China Ports Yearbook reports equipment, workforce and throughput data for individual operators on a consistent basis over time. Terminals from the wider Asian region were not pooled, because Asian port systems differ markedly in governance, development stage and logistics capability. The Logistics Performance Index 2023, for instance, scores Singapore at 4.3 and China at 3.7, but Cambodia and Lao PDR at 2.4 (World Bank, 2023), and the efficiency and market concentration of Southeast Asian container ports vary considerably (Nguyen et al., 2020). Combining such systems would confound terminal-level effects with country-level differences that the available data cannot control.
 
-*National level: European countries (Chapter 4).* To estimate how government incentives, innovation input and technology capability relate to participation in technology projects, the study needs cross-national variation in these factors, measured on a comparable basis. European countries provide this in three respects.
+At the operational level, Chapter 6 requires high-resolution operating data on a sustainable technology that is being adopted in practice under real policy pressure. Singapore is well suited to this purpose. It is the world's largest bunkering port, with record bunker sales of 56.77 million tonnes in 2025, of which 1.36 million tonnes were biofuel blends (MPA Singapore, 2026a, 2026b). Its decarbonisation policy also targets the vessel type examined: under the Maritime Singapore Decarbonisation Blueprint (MPA Singapore, 2022), all new harbour craft operating in the port from 2030 must be fully electric, capable of using B100 biofuel, or compatible with net-zero fuels (MPA Singapore, 2024b). Singapore has also introduced a provisional national quality standard for marine biofuel, together with conditions for its supply by licensed bunker suppliers (Argus Media, 2022). More broadly, it has been ranked the leading international shipping centre in every edition of the Xinhua–Baltic International Shipping Centre Development Index since 2014 (MPA Singapore, 2026b), and its port authority employs a wide range of green port management tools compared with other leading ports in Asia and Europe (Lam & Notteboom, 2014). Because biofuel trials on harbour craft were conducted in this setting, the study was able to use sensor data from actual sea trials rather than laboratory or simulated data.
 
-1. **Harmonised data.** Project-level information comes from the European Commission's Transport Research and Innovation Monitoring and Information System (TRIMIS), which records transport research and innovation projects under common reporting conventions (European Commission, 2023b). National R&D indicators come from the OECD statistical database, which follows the definitions of the Frascati Manual (OECD, 2015). All countries are therefore measured with the same definitions.
-2. **A largely shared policy and governance framework.** Most of the projects in the sample are funded by the European Commission or by European national governments under common programme rules (Section 4.3.3). In port policy, most of these countries also belong to the Continental European port doctrine, in which ports are treated as part of wider public infrastructure and public investment is justified by broader economic and social benefits (Lee & Flynn, 2011; Table 15).
-3. **Real variation within that framework.** National innovation systems in Europe remain diverse (Kaiser & Prange, 2004). The European Innovation Scoreboard groups European countries into innovation leaders, strong innovators, moderate innovators and emerging innovators. Innovation leaders and strong innovators are concentrated in Northern and Western Europe, while many moderate and emerging innovators are in Southern and Eastern Europe (European Commission, 2024).
+This design has an important implication for interpretation. The three settings differ in governance, ownership, labour arrangements, technological maturity, environmental regulation and data availability. Accordingly, the thesis regards its analytical frameworks as transferable, but its estimated coefficients and operational results as specific to the context in which they were obtained; they should not be applied to other ports without recalibration. Section 7.2 draws the findings together through the mechanisms they share, considers how country-specific factors condition them, and discusses when and how a result obtained in one setting may or may not be applied in another.
 
-The combination of comparable data and shared rules on the one hand, and substantial differences in innovation capability and government support on the other, makes European countries a suitable setting for testing the hypothesised national-level relationships. A single-country design would hold national policy essentially constant and could not identify these relationships.
+**Table [new-1]: Empirical contexts of the three studies**
 
-*Organisational level: Chinese container terminal operators (Chapter 5).* The terminal-level study requires a large panel of container terminals that differ in equipment, workforce and ownership but operate under the same national governance and policy framework. Under that condition, the effects of these organisational factors are not confounded with differences between national systems. China fits this requirement for three reasons.
+| Study | Level | Context | Main reason for selection |
+|---|---|---|---|
+| Chapter 4 | National | European countries | Comparable cross-national data; varied innovation capability within a common framework |
+| Chapter 5 | Organisational | Chinese container terminal operators | Large, growing terminal system; varied ownership under one governance regime |
+| Chapter 6 | Operational | Harbour craft, Port of Singapore | Leading bunkering hub; biofuel in use under a 2030 harbour craft mandate |
 
-1. **Scale and investment.** China is the country with the largest container port throughput in the world (UNCTAD, 2025). It has invested heavily in port equipment and automation: the Ministry of Transport reported 52 fully automated terminals by late 2024, which it describes as the largest number of any country (Xinhua, 2025). The throughput growth and equipment expansion observed during the study period therefore provide the variation needed to model how equipment deployment responds to throughput over time.
-2. **One governance path with varied ownership.** Since the Port Law of 2004, Chinese ports have developed along a common governance path. Port administration was decentralised to municipal governments, and the sector was opened to mixed and foreign investment while remaining under national policy guidance (Notteboom & Yang, 2017). The result is a population of terminal operators that differ in state, mixed and private ownership within one national framework. This is the variation needed to study how ownership relates to technological progress.
-3. **Consistent data.** The China Ports Yearbook reports equipment, workforce and throughput data for individual terminal operators on a consistent basis over time, which is rarely available elsewhere.
+## A3. Section 1.5 (now 1.6) Research significance: replace the final paragraph
 
-The study does not pool terminals from across Asia. Asian port systems differ widely in governance, development stage and logistics capability. The World Bank's Logistics Performance Index 2023, for example, gives Singapore a score of 4.3 and China 3.7, compared with 2.4 for Cambodia and Lao PDR (World Bank, 2023). Major container ports in Southeast Asia also differ substantially in efficiency and market concentration (Nguyen et al., 2020). Pooling such different systems would confound terminal-level effects with country-level differences in governance and data reporting, which the available data cannot control for.
+Overall, the significance of this research lies in its multi-level analytical perspective. Rather than examining technology advancement from a single angle, the thesis combines a theoretical review of port technology development (Chapter 3) with three empirical studies: a national-level analysis of factors associated with participation in technology projects in European countries (Chapter 4), an organisational-level evaluation of equipment deployment and technological progress in Chinese container terminals (Chapter 5), and an operational-level assessment of biofuel adoption in Singapore's harbour craft using machine learning (Chapter 6). Since the empirical studies are set in different contexts, they are not combined into a single estimated model. Instead, they are integrated through the mechanisms that recur across levels, namely absorptive capacity, technology embodied in capital investment, the combination of policy push and pull, and performance trade-offs, and through an explicit discussion of how country-specific factors shape the transferability of the findings (Section 7.2). This approach advances academic understanding while offering stakeholders practical, context-sensitive guidance on port technology development in an era of global trade and decarbonisation.
 
-*Operational level: harbour craft in the Port of Singapore (Chapter 6).* The operational study requires high-resolution operating data from a sustainable technology that is being adopted in practice under real policy pressure. Singapore meets this requirement in four ways.
+## A4. Section 1.6 (now 1.7) Thesis structure: replace the Chapter 7 description
 
-1. **Bunkering scale.** Singapore is the world's largest bunkering port (MPA Singapore, 2026b). In 2025 its bunker sales reached a record 56.77 million tonnes, and sales of alternative marine fuels reached about 1.95 million tonnes, including 1.36 million tonnes of biofuel blends (MPA Singapore, 2026a).
-2. **A mandate aimed at the vessel type studied.** Under the Maritime Singapore Decarbonisation Blueprint (MPA Singapore, 2022), all new harbour craft operating in the port from 2030 must be fully electric, capable of using B100 biofuel, or compatible with net-zero fuels such as hydrogen (MPA Singapore, 2024b).
-3. **Standards for biofuel supply.** Singapore has introduced a provisional national quality standard for marine biofuel and conditions for its supply by licensed bunker suppliers (Argus Media, 2022).
-4. **Institutional standing.** Singapore has been ranked the world's leading international shipping centre in the Xinhua–Baltic International Shipping Centre Development Index every year since the index was first published in 2014, most recently for the thirteenth consecutive year in 2026 (MPA Singapore, 2026b). In a comparison of leading ports in Asia and Europe, Lam and Notteboom (2014) find that its port authority uses a broad set of green port management tools.
-
-Because biofuel trials on harbour craft were conducted in this setting, the study could use sensor data from real sea trials rather than laboratory or simulated data.
-
-*Implications of the design.* The three contexts differ in governance, ownership, labour arrangements, technological maturity, environmental regulation and data availability. The thesis therefore treats its analytical frameworks as transferable, but its estimated coefficients and operational results as context-specific. These cannot be transferred to other ports without recalibration. Section 7.2 brings the findings together through the mechanisms they share, examines how country-specific factors condition them, and sets out when and how a result obtained in one context can and cannot be applied in another.
-
-**Table [new-1]: Rationale for the empirical contexts of the three studies**
-
-| Study | Level | Context | Variation required | Why this context is suitable | Main data sources | Main limits to transfer |
-|---|---|---|---|---|---|---|
-| Study 2 (Ch. 4) | National | European countries | Between-country differences in government R&D incentives, innovation input, technology capability and project participation | Harmonised project and R&D statistics; largely shared funding and governance framework; marked differences in innovation performance between countries (European Commission, 2024; Kaiser & Prange, 2004; OECD, 2015) | TRIMIS; OECD; World Bank WDI; QoG | Strong and stable institutions; Continental European port doctrine (Lee & Flynn, 2011) |
-| Study 3 (Ch. 5) | Organisational | Chinese container terminal operators | Between- and within-terminal differences in throughput, equipment, workforce education and ownership under one national regime | Largest national container port system; rapid equipment and automation investment; common governance path with varied ownership (Notteboom & Yang, 2017; UNCTAD, 2025; Xinhua, 2025) | China Ports Yearbook | Growth-phase investment; state-led planning; Asian port doctrine (Lee & Flynn, 2011) |
-| Study 4 (Ch. 6) | Operational | Harbour craft, Port of Singapore | Minute-level variation in fuel blend, engine load, operating and weather conditions | World's leading bunkering port; biofuel supply chain and standard; 2030 harbour craft mandate (Argus Media, 2022; MPA Singapore, 2024b, 2026a, 2026b) | Onboard sensor data from sea trials | One vessel type and engine class; one fuel (UCOME); Singapore's regulatory setting |
-
-## A3. Section 1.5 (now 1.6) Research significance: revise the last paragraph
-
-> *Replaces the paragraph that begins "Overall, the significance of this research lies in its multi-level analytical perspective…".*
-
-Overall, the significance of this research lies in its multi-level analytical perspective. Rather than examining technology advancement from a single angle, the thesis combines four related studies:
-
-- a theoretical review of port technology development (Chapter 3);
-- a national-level analysis of factors associated with stakeholder participation in technology projects in European countries (Chapter 4);
-- an organisational-level evaluation of equipment deployment and technological progress in Chinese container terminals (Chapter 5);
-- an operational-level assessment of biofuel adoption for harbour craft in Singapore using machine learning techniques (Chapter 6).
-
-Because the empirical studies are set in different contexts, they are not combined into a single estimated model. Instead, the thesis integrates them through the mechanisms that recur across levels: absorptive capacity, technology embodied in capital investment, policy push and pull, and performance trade-offs. It also makes explicit how country-specific factors shape the findings and their transferability (Section 7.2). This approach advances academic knowledge and offers stakeholders practical, context-aware guidance on the complex challenges of port technology development in the context of global trade and decarbonisation.
-
-## A4. Section 1.6 (now 1.7) Thesis structure: revise the Chapter 7 description
-
-Chapter 7 concludes the thesis by summarising the main findings, presenting a cross-study synthesis of how the findings connect and how country-specific factors condition their transferability, highlighting the theoretical and practical contributions, and outlining limitations and directions for future research.
+Chapter 7 concludes the thesis by summarising the main findings, presenting a cross-study synthesis of how the findings are connected and how country-specific factors condition their transferability, highlighting the theoretical and practical contributions, and outlining limitations and directions for future research.
 
 # PART B — NEW SECTION 7.2
 
-> *Insert after Section 7.1. The current 7.2 Key research contributions becomes 7.3, and the current 7.3 Limitations becomes 7.4. Section 7.1.2 (Singapore implementation) and the limitations section will be revised in the next step so that they are consistent with this section.*
+> *Insert after Section 7.1. The current 7.2 becomes 7.3 and the current 7.3 becomes 7.4.*
 
 ## 7.2 Cross-study synthesis: an integrated multi-level framework and the role of context
 
-Chapters 4, 5 and 6 were conducted at different levels of analysis and in different national contexts. Their results cannot be linked through a single estimated model, and the coefficients reported in each chapter apply only to the context in which they were estimated. The findings can, however, be connected through the mechanisms they share. In multi-method and multi-study research, this kind of integration is achieved at the interpretation stage: findings from separate studies are brought together through narrative synthesis and a "joint display" that sets them side by side (Fetters et al., 2013). This section follows that approach. Section 7.2.1 identifies the mechanisms common to the three studies. Section 7.2.2 examines the country-specific factors that condition them. Section 7.2.3 sets out when and how findings from one context can and cannot be applied elsewhere. Section 7.2.4 reports a positioning analysis that compares China and Singapore with the European sample used in Chapter 4.
+Chapters 4, 5 and 6 were conducted at different levels of analysis and in different national contexts. Their results cannot be linked through a single estimated model, and the coefficients reported in each chapter apply only to the context in which they were estimated. The findings can nevertheless be connected through the mechanisms they share. In multi-method and multi-study research, such integration is achieved at the stage of interpretation, where findings from separate studies are brought together through narrative synthesis and a joint display that presents them side by side (Fetters et al., 2013). This section adopts that approach. Section 7.2.1 identifies the mechanisms common to the three studies, Section 7.2.2 examines the country-specific factors that condition them, Section 7.2.3 considers when and how findings from one context can be applied elsewhere, and Section 7.2.4 compares China and Singapore with the European sample used in Chapter 4.
 
 ### 7.2.1 Linking the studies through shared mechanisms
 
-Figure [new-1] presents the integrated framework of the thesis. The three studies correspond to the three analytical levels of the multi-level perspective on socio-technical transitions (Geels, 2002):
-
-- the national innovation system and its policies form the regime and landscape conditions within which port technology develops (Chapter 4);
-- terminal operators are the organisations through which technology is embodied in equipment and translated into productivity (Chapter 5);
-- the operational trial of biofuel in harbour craft is a niche-level technology being tested under regulatory pressure (Chapter 6).
-
-The framework shows two kinds of process. Top-down processes are those in which higher-level conditions shape lower-level behaviour. Bottom-up processes are those in which operational and organisational outcomes feed back into higher-level capability and policy (Kozlowski & Klein, 2000). All of these processes are embedded in a context layer defined by governance, ownership, labour arrangements, technological maturity, environmental regulation and data availability. These are the dimensions along which the three study contexts differ (Section 7.2.2).
+Figure [new-1] presents the integrated framework of the thesis. The three empirical studies correspond to the three analytical levels of the multi-level perspective on socio-technical transitions (Geels, 2002). The national innovation system and its policies represent the regime and landscape conditions within which port technology develops (Chapter 4); terminal operators are the organisations through which technology is embodied in equipment and converted into productivity (Chapter 5); and the operational trial of biofuel in harbour craft represents a niche technology tested under regulatory pressure (Chapter 6). The framework distinguishes top-down processes, through which higher-level conditions shape lower-level behaviour, from bottom-up processes, through which operational and organisational outcomes feed back into higher-level capability and policy (Kozlowski & Klein, 2000). These processes are embedded in a context defined by governance, ownership, labour arrangements, technological maturity, environmental regulation and data availability, which are the dimensions along which the three study settings differ (Section 7.2.2).
 
 **Figure [new-1]: Integrated multi-level framework of port technology advancement and the role of context**
 
 ![Integrated framework](fig_new1_integrated_framework.png)
 
-*Note:* Arrows inside each box show relationships estimated empirically within a single study. Dashed arrows between levels show cross-level links proposed by the synthesis; these were not estimated. Source: the author, drawing on Geels (2002) and Kozlowski and Klein (2000).
+*Note:* Arrows within each level denote relationships estimated empirically in the corresponding chapter; dashed arrows between levels denote cross-level links proposed by the synthesis, which were not estimated. Source: the author, drawing on Geels (2002) and Kozlowski and Klein (2000).
 
-Four mechanisms recur across the three studies (Table [new-2]).
+Four mechanisms recur across the three studies (Table [new-2]). The first is absorptive capacity, the ability to recognise, assimilate and apply external knowledge (Cohen & Levinthal, 1990). In Chapter 4, national technology capability mediates the relationship between government incentives and innovation input and participation in technology projects. In Chapter 5, a higher proportion of employees holding a bachelor's degree or above is associated with faster technological progress in container terminals. In Chapter 6, the practical adoption of biofuel depends on the capability to monitor fuel consumption and emissions and to verify blending ratios, which the machine-learning models support. Although the measures differ across chapters, the pattern is consistent: technology advancement depends not only on access to technology but also on the capability to absorb it.
 
-*Absorptive capacity and human capital.* At each level, the benefit of external technology or support depends on the capacity to recognise, assimilate and apply it, which is the core idea of absorptive capacity (Cohen & Levinthal, 1990).
+The second mechanism is the embodiment of technology in capital investment. In ports, technology is largely embodied in infrastructure and equipment, so its advancement tends to follow investment decisions and the demand that justifies them. Participation in Chapter 4 is measured through projects with substantial infrastructure components, and in Chapter 5 the number and capacity of ship-to-shore and yard cranes increase with container throughput. Chapter 6 illustrates the converse case: because biofuel can be used in existing diesel engines (Section 6.1), it carries a low capital barrier, which makes it a practical near-term pathway for harbour craft. International evidence likewise shows that equipment and automation investment depends strongly on terminal characteristics and operating parameters (Knatz et al., 2022).
 
-- In Chapter 4, national technology capability mediates the relationship between government incentives and innovation input on the one hand and participation in technology projects on the other.
-- In Chapter 5, the share of employees with a bachelor's degree or higher is positively associated with technological progress in container terminals.
-- In Chapter 6, adopting biofuel in practice depends on the capability to monitor fuel consumption and emissions and to verify blending ratios, which the machine-learning models support.
+The third mechanism is the combination of technology-push and demand-pull policy. Technology-push measures reduce the cost of creating and applying innovations, whereas demand-pull measures increase their benefits, for example through standards and regulation (Makkonen & Repka, 2016), and the two are complementary (Geum et al., 2016). Each study captures a different part of this policy mix. Chapter 4 reflects the push side, as government R&D incentives are associated with stronger technology capability. Chapter 5 reflects a state-led setting in which national port policy and ownership structure shape investment (Notteboom & Yang, 2017). Chapter 6 reflects the pull side, as Singapore's harbour craft requirements for 2030 create demand for low- and zero-carbon technologies (MPA Singapore, 2024b).
 
-The measures differ across chapters, but the pattern is consistent: technology advancement depends not only on access to technology but on the capability to absorb it.
+The fourth mechanism concerns trade-offs and conditional performance. None of the studies finds technology advancement to be uniformly beneficial. The port-specific model in Chapter 4 fits less well than the general transport model, suggesting that participation in port technology projects is shaped by factors beyond those modelled. The relationship between ownership and technological progress in Chapter 5 depends on the type of ownership, and in Chapter 6 biofuel reduces CO₂ and CO emissions but increases NOₓ emissions and fuel consumption. The outcomes of technology adoption therefore depend on how a technology is configured and on the setting in which it is used.
 
-*Technology embodied in capital investment.* In ports, technology is largely embodied in infrastructure and equipment, so technology advancement tends to follow investment decisions and the demand that justifies them.
+**Table [new-2]: Shared mechanisms across the empirical studies**
 
-- In Chapter 4, participation is measured through technology projects whose costs include substantial infrastructure components.
-- In Chapter 5, the number and capacity of ship-to-shore and yard cranes increase with container throughput.
-- Chapter 6 shows the other side of this mechanism: biofuel is a "drop-in" technology that can be used in existing diesel engines (Section 6.1), which lowers the capital barrier to adoption and makes it a near-term pathway for harbour craft.
+| Mechanism | Chapter 4 (national) | Chapter 5 (organisational) | Chapter 6 (operational) |
+|---|---|---|---|
+| Absorptive capacity | Technology capability as mediator | Workforce education | Monitoring and blend verification |
+| Embodied technology | Infrastructure-intensive projects | Crane number and capacity | Drop-in fuel, low capital barrier |
+| Policy push and pull | R&D incentives (push) | State-led policy and ownership | 2030 harbour craft mandate (pull) |
+| Trade-offs | Weaker fit of port model | Ownership-dependent effect | Lower CO₂ and CO, higher NOₓ |
 
-The importance of terminal characteristics and operating parameters for equipment and automation investment is also documented internationally (Knatz et al., 2022).
-
-*Policy push and pull.* Technology-push policies reduce the cost of creating and applying innovations, while demand-pull policies raise the benefits of successful innovations, for example through standards and regulation (Makkonen & Repka, 2016). The two approaches are complementary (Geum et al., 2016). The three studies capture different parts of this policy mix:
-
-- Chapter 4 shows the push side: government R&D incentives are associated with stronger technology capability.
-- Chapter 5 reflects a state-led setting, where national port policy and state, mixed or private ownership shape investment (Notteboom & Yang, 2017).
-- Chapter 6 shows the pull side: Singapore's harbour craft requirements for 2030 create demand for low- and zero-carbon technologies (MPA Singapore, 2024b).
-
-*Trade-offs and conditional performance.* None of the studies finds that technology advancement is uniformly beneficial.
-
-- In Chapter 4, the port-specific model fits less well than the general transport model, which suggests that port technology participation is shaped by factors beyond those modelled.
-- In Chapter 5, the relationship between ownership and technological progress depends on the type of ownership.
-- In Chapter 6, biofuel reduces CO₂ and CO emissions but increases NOₓ emissions and fuel consumption.
-
-Technology outcomes therefore depend on how the technology is configured and on the context in which it is used.
-
-**Table [new-2]: Joint display of the shared mechanisms across the empirical studies**
-
-| Mechanism | Chapter 4 — European countries (national) | Chapter 5 — Chinese container terminals (organisational) | Chapter 6 — Singapore harbour craft (operational) | Integrated interpretation |
-|---|---|---|---|---|
-| Absorptive capacity and human capital (Cohen & Levinthal, 1990) | Technology capability mediates the effects of government incentives and innovation input on project participation | A higher share of degree-holding employees is associated with faster technological progress | Monitoring, prediction and blend verification with ML support practical adoption | Technology advancement depends on the capability to absorb technology, at every level |
-| Technology embodied in capital investment | Participation is measured through projects with large infrastructure components | Crane numbers and capacity increase with throughput | Biofuel is a drop-in fuel for existing engines, with a low capital barrier | Port technology largely follows investment cycles and the demand that justifies them |
-| Policy push and pull (Geum et al., 2016; Makkonen & Repka, 2016) | Push: R&D incentives are associated with stronger capability | State-led policy and ownership structure shape investment | Pull: 2030 harbour craft requirements and biofuel standards | Effective policy combines capability building with demand-side regulation |
-| Trade-offs and conditional performance | Weaker fit of the port-specific model | The ownership effect depends on ownership type | Lower CO₂ and CO, but higher NOₓ and fuel use | Benefits depend on technology configuration and context |
-
-Taken together, the studies suggest a chain of relationships:
-
-1. National institutions and incentives build the capability on which organisations draw (Chapter 4).
-2. Organisations translate demand and capability into embodied investment and productivity change (Chapter 5).
-3. Operational adoption of sustainable technologies depends on both regulatory pull and the capability to measure performance (Chapter 6).
-
-Operational evidence of the kind produced in Chapter 6 can, in turn, inform standards, verification and policy evaluation. This chain is a theoretical synthesis. It is supported by consistent evidence at each level, but it has not been estimated as a single model. Testing it with linked multi-level data collected within the same national context is a direction for future research (Section 7.4).
+Taken together, the studies suggest a chain of relationships in which national institutions and incentives build the capability on which organisations draw, organisations translate demand and capability into embodied investment and productivity change, and the operational adoption of sustainable technologies depends both on regulatory pull and on the capability to measure performance. Operational evidence of the kind produced in Chapter 6 can, in turn, inform standards, verification and policy evaluation. It should be emphasised that this chain is a theoretical synthesis supported by consistent evidence at each level rather than a relationship estimated as a single model. Testing it with linked multi-level data collected within one national context is a direction for future research (Section 7.4).
 
 ### 7.2.2 Country-specific factors and heterogeneity
 
-The three contexts differ in the dimensions that matter most for technology advancement in ports. Table [new-3] compares them.
+The three settings differ in the dimensions that matter most for technology advancement in ports (Table [new-3]). The first difference concerns port development doctrine. The European countries in Chapter 4 largely follow the Continental European doctrine, whereas China and Singapore follow variants of the Asian doctrine, in which ports are treated as strategic national infrastructure and government plays an active role in planning, financing and coordination (Lee & Flynn, 2011). Within the Asian doctrine, however, the two countries differ considerably. In China, port administration has been decentralised to municipal governments within a strong framework of national policy and provincial port integration (Notteboom & Yang, 2017). In Singapore, the regulatory and commercial functions were separated in 1996–1997, when the Maritime and Port Authority of Singapore became the regulator and the former Port of Singapore Authority was corporatised as PSA Corporation, wholly owned by Temasek Holdings (National Library Board Singapore, 2005). Comparative research shows that similar governance reforms produce different outcomes in different institutional settings, because path-dependent decisions preserve national characteristics (Ng & Pallis, 2010).
 
-Two features stand out.
-
-First, the contexts represent different port development doctrines. The European countries in Chapter 4 largely follow the Continental European doctrine. China and Singapore follow variants of the Asian doctrine, in which ports are treated as strategic national infrastructure and government plays an active role in planning, financing and coordination (Lee & Flynn, 2011). Within the Asian doctrine, however, the two countries differ:
-
-- China's port governance is decentralised to municipal governments within a strong national policy framework, and its ports are integrated at the provincial level (Notteboom & Yang, 2017).
-- Singapore separated its regulator, MPA, from its commercial port operator in 1996–1997, when the Port of Singapore Authority was corporatised as PSA Corporation and became wholly owned by Temasek Holdings (National Library Board Singapore, 2005).
-
-Similar governance reforms have produced different outcomes in different institutional settings because path-dependent decisions preserve national characteristics (Ng & Pallis, 2010).
-
-Second, the contexts differ in how environmental policy is made. Lam and Notteboom (2014) compare Antwerp, Rotterdam, Shanghai and Singapore. They find that all four rely heavily on enforcing environmental standards, but that the port authorities of Antwerp and Rotterdam have more influence on green port policy than those of the two Asian ports, which points to a stronger role for government in the Asian cases.
-
-These differences mean that the same mechanism can operate through different channels:
-
-- Capability building through R&D incentives is the main channel in Europe.
-- State planning and investment are central in China.
-- In Singapore, a single, strong port authority sets binding requirements.
+A second difference lies in the way environmental policy is made. Comparing Antwerp, Rotterdam, Shanghai and Singapore, Lam and Notteboom (2014) find that all four ports rely heavily on the enforcement of environmental standards, but that the port authorities of Antwerp and Rotterdam have greater influence on green port policy than those of the two Asian ports, which points to a stronger role for government in the Asian cases. In Europe, the regulatory framework is increasingly set at the supranational level, as with the FuelEU Maritime Regulation, which applies from 2025 (European Parliament & Council of the European Union, 2023). Singapore, by contrast, sets port-specific requirements directly, including the 2030 harbour craft requirements and a national marine biofuel standard (Argus Media, 2022; MPA Singapore, 2024b). The settings also differ in technological maturity and data availability. European countries range from innovation leaders to emerging innovators (European Commission, 2024); China operates the largest number of automated terminals of any country (Xinhua, 2025); and Singapore ranks fourth in the Global Innovation Index 2024 (WIPO, 2024). Harmonised cross-national statistics are available for Europe, consistent terminal-level data for China, and high-frequency onboard sensor data for Singapore. Labour arrangements, finally, differ between national dock labour regimes and affect the way new technology is introduced (Notteboom et al., 2022; Turnbull & Wass, 2007).
 
 **Table [new-3]: Country-specific factors in the three study contexts**
 
-| Dimension | European countries (Ch. 4) | China (Ch. 5) | Singapore (Ch. 6) |
+| Dimension | European countries | China | Singapore |
 |---|---|---|---|
-| Governance and port doctrine | Mainly landlord port authorities; Continental European doctrine (Lee & Flynn, 2011; Notteboom et al., 2022; World Bank, 2025) | Port administration decentralised to municipalities after the 2004 Port Law, within strong national policy guidance and provincial port integration; Asian doctrine (Lee & Flynn, 2011; Notteboom & Yang, 2017) | MPA as national regulator, separated from the commercial operator PSA since 1996–1997; Asian doctrine (Lee & Flynn, 2011; National Library Board Singapore, 2005) |
-| Ownership | Terminals typically run by private or international operators under concessions in publicly owned landlord ports (World Bank, 2025) | Mainly state-owned port groups, with mixed and foreign participation (Notteboom & Yang, 2017); state, mixed and private operators in the Chapter 5 sample | PSA wholly owned by the state investment company Temasek Holdings (National Library Board Singapore, 2005) |
-| Labour arrangements | Dock labour regimes differ between countries and shape how new technology is introduced (Notteboom et al., 2022; Turnbull & Wass, 2007) | [To be completed with a source on labour arrangements in Chinese terminals; Chapter 5 measures workforce education] | [To be completed with a source on labour arrangements in Singapore's port] |
-| Technological maturity | Large differences between innovation leaders and emerging innovators (European Commission, 2024); automated terminals in several major ports (Knatz et al., 2022) | 52 fully automated terminals by late 2024, the largest number of any country (Xinhua, 2025) | 4th in the Global Innovation Index 2024 (WIPO, 2024); leading international shipping centre (MPA Singapore, 2026b) |
-| Environmental regulation | EU-level instruments, including FuelEU Maritime, applying from 2025 (European Commission, 2023a; European Parliament & Council of the European Union, 2023) | Government-led green port policy, in which the port authority has less influence than in European ports (Lam & Notteboom, 2014) | Port-specific requirements: from 2030, new harbour craft must be electric, B100-capable or net-zero-fuel compatible; marine biofuel standard (Argus Media, 2022; MPA Singapore, 2024b) |
-| Data availability | Harmonised cross-national project and R&D statistics (European Commission, 2023b; OECD, 2015) | Consistent terminal-level operational data in the China Ports Yearbook; sector-specific public R&D and subsidy data are limited | High-frequency onboard sensor data from sea trials, covering one vessel type |
+| Port doctrine | Continental European | Asian | Asian |
+| Governance | Landlord port authorities | Municipal, under national guidance | Regulator (MPA) separate from operator (PSA) |
+| Ownership | Concessions to private operators | Mainly state-owned port groups, with mixed ownership | State-owned operator (PSA) |
+| Technological maturity | Wide variation across countries | Largest number of automated terminals | High innovation ranking |
+| Environmental regulation | Supranational (EU) instruments | Government-led | Port-specific mandates and standards |
+| Data used | Harmonised national statistics | Terminal-level yearbook data | Onboard sensor data |
 
-> *Note: I could not find reliable sources for the two labour cells (China, Singapore). Either we search for them together, or we delete the labour row and mention labour only in the text with the Turnbull & Wass citation. For Europe, the EU's 2024 ETS extension to shipping could also be added, but it needs a source; I have not added it.*
+*Sources:* Lee and Flynn (2011); Notteboom and Yang (2017); Notteboom et al. (2022); National Library Board Singapore (2005); European Commission (2024); Xinhua (2025); WIPO (2024); Lam and Notteboom (2014); European Parliament and Council of the European Union (2023); MPA Singapore (2024b).
 
-These differences have direct consequences for interpreting each study:
+> *Labour arrangements appear in the text only, because I could not find reliable sources for China and Singapore. If you would like a labour row in the table, we will need to find sources for those two cells first.*
 
-- The Chapter 4 relationships were estimated in countries with comparatively strong and stable institutions and harmonised policy instruments.
-- The Chapter 5 relationships reflect a phase of rapid throughput growth and state-led investment.
-- The Chapter 6 results reflect one vessel type, one engine class and one biofuel (used cooking oil methyl ester), operating under Singapore's conditions and regulations.
-
-The examiners rightly note that these are context-specific findings. The next section sets out how they can, and cannot, be used elsewhere.
+These differences shape the interpretation of each study. The relationships identified in Chapter 4 were estimated in countries with comparatively strong and stable institutions and harmonised policy instruments. Those in Chapter 5 reflect a period of rapid throughput growth and state-led investment, and the results of Chapter 6 relate to one vessel type, one engine class and one biofuel, used cooking oil methyl ester, under Singapore's operating and regulatory conditions. The findings are therefore context-specific, and their use in other settings requires the careful assessment set out in the following section.
 
 ### 7.2.3 When and how findings can and cannot be applied elsewhere
 
-Whether a result that holds in one setting will hold in another depends on whether the factors that supported it in the original setting are also present in the new one (Cartwright & Hardie, 2012). Context can change not only the size but also the direction of relationships between variables (Johns, 2006). The policy transfer literature likewise distinguishes between copying a policy directly and the weaker forms of transfer, such as emulation, combination or inspiration, that adapt it to local conditions (Dolowitz & Marsh, 2000).
-
-Building on these ideas, this thesis distinguishes three degrees of transferability:
-
-1. *Transferable:* the analytical frameworks, methods and measurement approaches. These can be applied in other contexts as they are.
-2. *Conditionally transferable:* the direction of the relationships. These can be expected to hold where the supporting conditions are present, and should be re-tested where they are not.
-3. *Not transferable without recalibration:* estimated coefficients, intercepts, thresholds and trained model parameters. These must be re-estimated with local data.
-
-Table [new-4] applies this classification to the main findings.
+Whether a result obtained in one setting will hold in another depends on whether the factors that supported it in the original setting are also present in the new one (Cartwright & Hardie, 2012). Context can alter not only the strength but also the direction of relationships between variables (Johns, 2006), and the policy transfer literature distinguishes direct copying from more adaptive forms of transfer, such as emulation, combination and inspiration (Dolowitz & Marsh, 2000). Building on these ideas, this thesis distinguishes three degrees of transferability. Analytical frameworks, methods and measurement approaches are transferable and may be applied in other contexts. The direction of relationships is conditionally transferable: it may be expected to hold where the supporting conditions are present, but should be re-tested where they are not. Estimated coefficients, intercepts, thresholds and trained model parameters are not transferable and must be re-estimated with local data. Table [new-4] applies this classification to the main findings.
 
 **Table [new-4]: Transferability of the main findings**
 
-| Finding (context) | Transferable | Conditionally transferable: conditions to check | Not transferable without recalibration |
+| Finding | Transferable | Conditionally transferable | Requires recalibration |
 |---|---|---|---|
-| Government incentives and innovation input are associated with participation through technology capability (European countries, Ch. 4) | SEM framework; constructs and hypotheses | Direction expected to hold where absorptive capacity and stable institutions exist, and where participation is voluntary and incentive-driven rather than directed by the state | Path coefficients, especially those from the port-specific model, which has weaker fit |
-| Throughput growth is associated with increases in crane number and capacity (Chinese terminals, Ch. 5) | Growth-model (RCM) approach; equipment variables | Demand-led investment in growing markets. In mature or space-constrained ports, investment may depend more on vessel size, automation and land constraints (Knatz et al., 2022) | Intercepts, growth slopes and lag structure |
-| Workforce education and ownership are associated with technological progress (Chinese terminals, Ch. 5) | MPI decomposition; human capital and ownership variables | The education effect is expected to be widely relevant (Cohen & Levinthal, 1990). The ownership effect depends on the governance setting (Ng & Pallis, 2010; Tongzon & Heng, 2005) | Effect sizes; the state/mixed/private coding, which reflects Chinese ownership categories |
-| Biofuel reduces CO₂ and CO but increases NOₓ and fuel consumption (Singapore harbour craft, Ch. 6) | ML modelling and validation workflow; choice of input features | Direction consistent with the international literature on biodiesel in diesel engines (Lapuerta et al., 2008); expected for similar engines, feedstocks and duty cycles | Emission and consumption magnitudes; trained model parameters, which must be retrained on local vessel, engine, fuel and operating data |
+| Incentives → capability → participation (Ch. 4) | SEM framework | Where institutions are stable and participation is incentive-driven | Path coefficients |
+| Throughput → crane deployment (Ch. 5) | Growth-model approach | In growing, demand-led port markets | Intercepts and growth slopes |
+| Education and ownership → technological progress (Ch. 5) | MPI decomposition | Education widely; ownership depends on governance | Effect sizes; ownership coding |
+| Biofuel: lower CO₂/CO, higher NOₓ (Ch. 6) | ML workflow | For similar engines, fuels and duty cycles | Magnitudes; trained models |
 
-*Applying European findings to Asian ports.* The Chapter 4 result is that incentives work largely by strengthening national technology capability. This is most relevant to Asian ports with strong innovation systems and a voluntary, project-based approach to technology development. Under the Asian doctrine, however, governments often plan and finance port technology directly (Lee & Flynn, 2011). In that case, participation may be driven by state programmes rather than by incentive-induced capability, and the mediating role of capability may be weaker. The European finding should therefore inspire policy design in such settings, rather than be copied (Dolowitz & Marsh, 2000).
+The national-level findings of Chapter 4 indicate that incentives operate largely by strengthening technology capability. This mechanism is most relevant to ports in economies with strong innovation systems and a voluntary, project-based approach to technology development. Under the Asian doctrine, however, governments often plan and finance port technology directly (Lee & Flynn, 2011). In such settings, participation may be driven by state programmes rather than by incentive-induced capability, and the mediating role of capability may be weaker. The European results should therefore inform policy design in Asian ports through emulation or inspiration rather than direct copying (Dolowitz & Marsh, 2000).
 
-*Applying Chinese findings to Europe and Singapore.* The Chapter 5 result that crane investment follows throughput reflects a period of rapid growth in China's container port system. In mature European ports, or in land-constrained ports such as Singapore, equipment investment is more likely to be driven by larger vessels, automation and the efficient use of limited land (Knatz et al., 2022). The general lesson does transfer: equipment investment should be planned against expected throughput, and supported by workforce education. The estimated growth rates do not. The effect of ownership is the most context-dependent finding, because the meaning of state, mixed and private ownership differs between national governance systems (Ng & Pallis, 2010).
+The organisational-level finding of Chapter 5 that crane investment follows throughput reflects a period of rapid growth in China's container port system. In mature European ports, or in land-constrained ports such as Singapore, equipment investment is more likely to be driven by vessel size, automation and the efficient use of scarce land, and depends on terminal-specific characteristics (Knatz et al., 2022). The general principle that equipment investment should be planned against expected throughput and supported by workforce education may be transferred, but the estimated growth rates may not. The effect of ownership is the most context-dependent result, because the meaning of state, mixed and private ownership differs between governance systems (Ng & Pallis, 2010), and evidence on the efficiency effects of private participation in ports is itself qualified (Tongzon & Heng, 2005).
 
-*Applying Singapore's findings to other ports.* The direction of the Chapter 6 emissions trade-off agrees with the broader literature on biodiesel combustion (Lapuerta et al., 2008), so it can be expected at other ports that use similar engines and fuels. The magnitudes cannot be transferred. They depend on engine type, blend ratio, feedstock, duty cycle and ambient conditions, and the machine-learning models must be retrained with local data. Singapore's policy approach is also tied to its institutions. It depends on a large biofuel supply chain at the world's largest bunkering port (MPA Singapore, 2026a, 2026b) and on a single national authority that can set binding requirements for harbour craft (MPA Singapore, 2024b). Ports without local biofuel supply, or where environmental rules are set at a supranational level, as in the European Union (European Commission, 2023a), would need to adapt both the technology pathway and the policy instruments.
+The operational findings of Chapter 6 are partly transferable. The direction of the emissions trade-off is consistent with the wider literature on biodiesel combustion in diesel engines (Lapuerta et al., 2008) and may therefore be expected at other ports using similar engines and fuels. The magnitudes, however, depend on engine type, blend ratio, feedstock, duty cycle and ambient conditions, and the machine-learning models must be retrained with local data. Singapore's policy approach is likewise tied to its institutional setting, since it relies on a large biofuel supply chain at the world's largest bunkering port (MPA Singapore, 2026a) and on a single national authority able to set binding requirements for harbour craft (MPA Singapore, 2024b). Ports without a local biofuel supply, or those in which environmental rules are set at the supranational level, as in the European Union, would need to adapt both the technology pathway and the policy instruments.
 
-*Lessons that apply across contexts.* Some findings are common to all three studies and are therefore the most transferable:
-
-- Technology advancement depends on capability as well as on investment.
-- Policy is more effective when capability building is combined with demand-side requirements.
-- Sustainable technologies involve trade-offs that should be measured with operational data before large-scale adoption.
+Some lessons are nonetheless common to all three studies and are therefore the most transferable. Technology advancement depends on capability as well as on investment; policy is more effective when capability building is combined with demand-side requirements; and sustainable technologies involve trade-offs that should be measured with operational data before they are adopted at scale.
 
 ### 7.2.4 Positioning of China and Singapore relative to the European sample
 
-> *Note: this is the "empirical bridge" you approved. I could not download the data here because the session's network blocks the OECD and World Bank servers. Please extract the values (instructions in file 02) and send them to me; I will compute the statistics and finish this text. The text below is ready apart from the bracketed values and the final interpretation.*
+> *The data for this section could not be downloaded from this session. The text is complete except for the values in Table [new-5] and the final interpretation, which will be added once you send the data (see file 02).*
 
-To assess how far the Chapter 4 results can be applied to the other two contexts, China's and Singapore's values on national indicators corresponding to the Chapter 4 constructs were compared with the distribution of the European sample. Both economies are covered by the OECD Main Science and Technology Indicators as non-member economies (OECD, 2024) and by the World Bank's World Development Indicators (World Bank, 2022). Comparable data were not available for China and Singapore on the transport-specific indicators used in Chapter 4, such as government budget allocations for transport R&D. The comparison therefore uses aggregate national indicators of the same constructs (Table [new-5]).
+To assess how far the Chapter 4 relationships may be applied to the other two settings, the values of China and Singapore on national innovation indicators were compared with the distribution of the European sample. Both economies are covered by the OECD Main Science and Technology Indicators as non-member economies (OECD, 2024) and by the World Development Indicators (World Bank, 2022). As comparable data for China and Singapore were not available for the transport-specific indicators used in Chapter 4, aggregate national indicators of the same constructs were used (Table [new-5]). A value within the range of the European sample implies that applying the direction of the Chapter 4 relationships constitutes interpolation; a value outside that range implies extrapolation, in which case the relationships should be re-tested before being relied upon.
 
-The interpretation follows a simple rule. A value within the range of the European sample means that applying the direction of the Chapter 4 relationships is an interpolation. A value outside that range means it is an extrapolation, and the relationships should be re-tested before they are relied upon.
+**Table [new-5]: China and Singapore relative to the European sample (reference year [ ])**
 
-**Table [new-5]: China and Singapore relative to the European sample on national innovation indicators (reference year [2019/2021])**
+| Construct | Indicator | Europe: min / median / max | China | Singapore |
+|---|---|---|---|---|
+| Government incentives | Government-financed GERD (% of GDP) | [ ] | [ ] | [ ] |
+| Innovation input | GERD (% of GDP) | [ ] | [ ] | [ ] |
+| Innovation input | Researchers per thousand employment | [ ] | [ ] | [ ] |
+| Technology capability | Triadic patent families | [ ] | [ ] | [ ] |
+| Technology capability | High-technology exports (US$) | [ ] | [ ] | [ ] |
 
-| Construct (Ch. 4) | Indicator (source) | European sample: min / median / max | China | Singapore | Position |
-|---|---|---|---|---|---|
-| Government incentives (GI) | Government-financed GERD as % of GDP (OECD MSTI) | [ ] | [ ] | [ ] | [within / above / below] |
-| Innovation input (II) | Researchers (FTE) per thousand employment (OECD MSTI) | [ ] | [ ] | [ ] | [ ] |
-| Innovation input (II) | GERD as % of GDP (OECD MSTI) | [ ] | [ ] | [ ] | [ ] |
-| Technology capability (TC) | Triadic patent families (OECD MSTI) | [ ] | [ ] | [ ] | [ ] |
-| Technology capability (TC) | High-technology exports, current US$ (World Bank WDI) | [ ] | [ ] | [ ] | [ ] |
+*Sources:* OECD (2024); World Bank (2022).
 
-[Interpretation paragraph to be completed after the values are in, for example: "China lies above the European maximum on the scale-dependent indicators (researchers, patents, high-tech exports) but within the European range on research intensity. Singapore lies within or above the range of the European innovation leaders. Applying the direction of the Chapter 4 relationships to Singapore is therefore closer to interpolation, whereas for China it is partly an extrapolation in scale, which supports the caution in Section 7.2.3."]
-
-> *Note: if Examiner 4's Comment 11 leads us to rename "Technology capability (TC)", update the construct labels in Tables [new-2], [new-4] and [new-5] to match.*
+[Interpretation to be added once the values are available.]
 
 # REFERENCES
 
-> *New entries to add to the thesis reference list, in APA 7 style to match the thesis. Items marked † are already in your list; check that the year and suffix match. Three issues to fix in the existing list:*
->
-> 1. *Chapter 4 cites "TRIMIS (2022)" in the text, but the list only has "European Commission (2023b)". I have used European Commission (2023b) here; please align Chapter 4.*
-> 2. *Chapter 6 cites the Decarbonisation Blueprint as "MPA Singapore, 2024", but the 2024 entry in your list is the electric harbour craft call for interest. I have added the Blueprint as MPA Singapore (2022). The MPA entries need relettering (2024a/2024b, 2026a/2026b); please check the existing ones.*
-> 3. *"China Ports Yearbook" is not in the reference list. Please add the edition(s) used, e.g., China Ports Yearbook Editorial Office. (2016–2022). China ports yearbook [中国港口年鉴]. China Ports Magazine.*
->
-> *I confirmed each new entry's details by search. The session cannot open publisher pages, so please check page ranges and DOIs against your library copies, especially the two marked ‡.*
+> *New entries to add to the reference list (APA 7). Items marked † are already in your list. Before finalising: (1) align "TRIMIS (2022)" in Chapter 4 with European Commission (2023b); (2) reletter the MPA entries (2024a/b, 2026a/b) and add the Blueprint as MPA Singapore (2022); (3) add the China Ports Yearbook; (4) check DOIs and page ranges, especially those marked ‡.*
 
 Argus Media. (2022). *Singapore announces provisional marine biofuel standard*. https://www.argusmedia.com/en/news-and-insights/latest-market-news/2377365-singapore-announces-provisional-marine-biofuel-standard
 
@@ -265,8 +156,6 @@ Cartwright, N., & Hardie, J. (2012). *Evidence-based policy: A practical guide t
 Cohen, W. M., & Levinthal, D. A. (1990). Absorptive capacity: A new perspective on learning and innovation. *Administrative Science Quarterly, 35*(1), 128–152. https://doi.org/10.2307/2393553
 
 Dolowitz, D. P., & Marsh, D. (2000). Learning from abroad: The role of policy transfer in contemporary policy-making. *Governance, 13*(1), 5–24. https://doi.org/10.1111/0952-1895.00121
-
-European Commission. (2023a). *Decarbonising maritime transport – FuelEU Maritime*. https://transport.ec.europa.eu/transport-modes/maritime/decarbonising-maritime-transport-fueleu-maritime_en †
 
 European Commission. (2023b). *Transport Research and Innovation Monitoring and Information System*. https://trimis.ec.europa.eu/front †
 
@@ -284,7 +173,7 @@ Geum, Y., Jeon, H., & Lee, H. (2016). Developing new smart services using integr
 
 Johns, G. (2006). The essential impact of context on organizational behavior. *Academy of Management Review, 31*(2), 386–408. https://doi.org/10.5465/amr.2006.20208687 ‡
 
-Kaiser, R., & Prange, H. (2004). Managing diversity in a system of multi-level governance: The open method of co-ordination in innovation policy. *Journal of European Public Policy, 11*(2), 249–266. ‡ (add DOI from the publisher page)
+Kaiser, R., & Prange, H. (2004). Managing diversity in a system of multi-level governance: The open method of co-ordination in innovation policy. *Journal of European Public Policy, 11*(2), 249–266. ‡
 
 Knatz, G., Notteboom, T., & Pallis, A. A. (2022). Container terminal automation: Revealing distinctive terminal characteristics and operating parameters. *Maritime Economics & Logistics, 24*(3), 537–565. https://doi.org/10.1057/s41278-022-00240-y
 
@@ -294,13 +183,13 @@ Lam, J. S. L., & Notteboom, T. (2014). The greening of ports: A comparison of po
 
 Lapuerta, M., Armas, O., & Rodríguez-Fernández, J. (2008). Effect of biodiesel fuels on diesel engine emissions. *Progress in Energy and Combustion Science, 34*(2), 198–223. https://doi.org/10.1016/j.pecs.2007.07.001
 
-Lee, P. T.-W., & Flynn, M. (2011). Charting a new paradigm of container hub port development policy: The Asian doctrine. *Transport Reviews, 31*(6), 791–806. https://doi.org/10.1080/01441647.2011.597005 † (your list has this under "Tae-Woo Lee, P., & Flynn, M."; correct the author format to "Lee, P. T.-W.")
+Lee, P. T.-W., & Flynn, M. (2011). Charting a new paradigm of container hub port development policy: The Asian doctrine. *Transport Reviews, 31*(6), 791–806. https://doi.org/10.1080/01441647.2011.597005 †
 
 Makkonen, T., & Repka, S. (2016). The innovation inducement impact of environmental regulations on maritime transport: A literature review. *International Journal of Innovation and Sustainable Development, 10*(1), 69–86. †
 
 MPA Singapore. (2022). *Maritime Singapore decarbonisation blueprint: Working towards 2050*. Maritime and Port Authority of Singapore. https://www.mpa.gov.sg/maritime-singapore/sustainability
 
-MPA Singapore. (2024b, April). *Singapore gears up to meet net-zero needs of shipping* [Media release, Singapore Maritime Week 2024]. Maritime and Port Authority of Singapore. https://www.mpa.gov.sg/media-centre/details/singapore-gears-up-to-meet-net-zero-needs-of-shipping
+MPA Singapore. (2024b, April). *Singapore gears up to meet net-zero needs of shipping* [Media release]. Maritime and Port Authority of Singapore. https://www.mpa.gov.sg/media-centre/details/singapore-gears-up-to-meet-net-zero-needs-of-shipping
 
 MPA Singapore. (2026a, January). *Singapore posts record port performance in 2025 and develops future readiness through industry collaborations for 2026* [Media release]. Maritime and Port Authority of Singapore. https://www.mpa.gov.sg/media-centre/details/singapore-posts-record-port-performance-in-2025-and-develops-future-readiness-through-industry-collaborations-for-2026
 
@@ -333,7 +222,5 @@ WIPO. (2024). *Global innovation index 2024: Unlocking the promise of social ent
 World Bank. (2022). *World development indicators*. https://data.worldbank.org/indicator †
 
 World Bank. (2023). *Connecting to compete 2023: Trade logistics in an uncertain global economy — The Logistics Performance Index and its indicators*. World Bank. https://lpi.worldbank.org/index.php/international/global
-
-World Bank. (2025). *Port reform toolkit*. https://www.worldbank.org/en/topic/transport/publication/port-reform-toolkit †
 
 Xinhua. (2025, April 14). *China Focus: Ports get smarter with automation push*. Xinhua News Agency. https://english.news.cn/20250414/18723fb7c6b841489a6e1809bd757ca6/c.html
