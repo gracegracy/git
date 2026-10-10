@@ -118,6 +118,8 @@ Whether a result obtained in one setting will hold in another depends on whether
 | Education and ownership → technological progress (Ch. 5) | MPI decomposition | Education: widely; ownership: depends on governance | Effect sizes; ownership coding |
 | Biofuel: lower CO₂ and CO, higher NOₓ (Ch. 6) | ML workflow and features | Similar engines, fuels and duty cycles | Magnitudes; trained models |
 
+Transferability is limited not only by context but also by the nature of technology itself. As discussed in Sections 2.1.2 and 2.4, technology is heterogeneous and is usually embodied in machines and equipment. Each study therefore measures technology in a form suited to its level: national capability indicators in Chapter 4, the number and capacity of cranes together with the Malmquist frontier shift in Chapter 5, and the performance of fuel blends in a given engine in Chapter 6. The findings refer to these specific forms of technology and should not be generalised to technology as a whole. The Chapter 5 results concern cargo-handling cranes in container terminals and may not hold for digital systems, and the Chapter 6 results concern biodiesel blends in high-speed diesel engines and may differ for other engine types (Chountalas et al., 2023).
+
 The European finding that incentives work largely by strengthening capability is most likely to be repeated in economies with strong innovation systems and voluntary, project-based participation in technology development, such as advanced Asian economies. Where governments plan and finance port technology directly, as is common under the Asian port doctrine (Lee & Flynn, 2011), participation may be driven by state programmes rather than by capability built through incentives. The mediating role of capability may then be weaker. In such settings, the European result should inform the design of policy rather than be copied directly (Dolowitz & Marsh, 2000).
 
 In China, the close link between throughput and crane deployment reflects a growth phase in which capacity expansion is the main motive for investment. In mature European ports, or in land-constrained ports such as Singapore, equipment decisions are more likely to be driven by vessel size, automation and the efficient use of scarce land, and they depend on terminal-specific characteristics (Knatz et al., 2022). The principle of planning equipment against expected throughput, supported by workforce education, can be transferred; the estimated growth rates cannot. The ownership result is the least transferable. The meaning of state, mixed and private ownership, and the outcomes of governance reform, differ between institutional settings (Ng & Pallis, 2010), and the evidence on the efficiency effects of private participation in ports is itself qualified (Tongzon & Heng, 2005).
@@ -155,9 +157,11 @@ Some lessons are nonetheless common to all three studies and are therefore the m
 
 Argus Media. (2022). *Singapore announces provisional marine biofuel standard*. https://www.argusmedia.com/en/news-and-insights/latest-market-news/2377365-singapore-announces-provisional-marine-biofuel-standard
 
+Benhabib, J., & Spiegel, M. M. (1994). The role of human capital in economic development: Evidence from aggregate cross-country data. *Journal of Monetary Economics, 34*(2), 143–173. https://doi.org/10.1016/0304-3932(94)90047-7
+
 Cartwright, N., & Hardie, J. (2012). *Evidence-based policy: A practical guide to doing it better*. Oxford University Press.
 
-Benhabib, J., & Spiegel, M. M. (1994). The role of human capital in economic development: Evidence from aggregate cross-country data. *Journal of Monetary Economics, 34*(2), 143–173. https://doi.org/10.1016/0304-3932(94)90047-7
+Chountalas, T. D., Founti, M., & Hountalas, D. T. (2023). Review of biofuel effect on emissions of various types of marine propulsion and auxiliary engines. *Energies, 16*(12), 4647. https://doi.org/10.3390/en16124647
 
 Cohen, W. M., & Levinthal, D. A. (1990). Absorptive capacity: A new perspective on learning and innovation. *Administrative Science Quarterly, 35*(1), 128–152. https://doi.org/10.2307/2393553
 
