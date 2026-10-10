@@ -16,7 +16,7 @@ title: "Revision draft — Examiner 4, Section 2.4 research gaps: heterogeneity 
 >
 > *1.6 (old 1.5): one sentence on measuring technology at each level.*
 >
-> *4.3.1 and 4.6: what project cost measures, and a limitation. This also prepares the answer to the examiner's later comment on PT.*
+> *4.3.1 and 4.6: what project cost measures, and a limitation. Final text is now in file 05, which also answers the examiner's comment on PT.*
 >
 > *5.3.2 and 5.6: cranes as embodied technology, what the Malmquist frontier shift captures, and a limitation.*
 >
@@ -83,15 +83,7 @@ The thesis also takes account of the heterogeneous and embodied nature of techno
 
 ## D2. Chapter 4
 
-> *(a) Section 4.3.1: insert after the paragraph that justifies project cost as an indicator of participation, which ends "…can reflect the capability, confidence, and willingness of stakeholders to take part in technologically advanced infrastructure projects", and before the sentence on project duration if you split that paragraph.*
-
-The use of project cost requires a caution. Because most technologies are embodied in equipment and infrastructure (Section 2.1.2), the cost of a technology project includes the cost of the physical assets, works and services involved, and not only the value of the technology itself. Project cost is therefore interpreted in this chapter as the scale of resources that stakeholders commit to technology development, not as the value of the technology that is developed. Two features of the data limit the overstatement that this could cause. First, the TRIMIS database records transport research and innovation projects (European Commission, 2023b), so the costs relate to research and innovation projects rather than to infrastructure construction in general. Second, project cost is only one of three indicators of participation, together with the number of projects led and the total duration of participation, so the construct does not depend on cost alone. Technology itself enters the model mainly through national technology capability, which is measured by output indicators, namely patents, technology exports and value added, rather than by expenditure. Demonstration and pilot projects may nevertheless include equipment and infrastructure components, so the cost indicator may still overstate the technology component, particularly in port projects, which are capital-intensive (Haralambides, 2002).
-
-> *(b) Section 4.6: add to the list of limitations, after the sentence on latent variables measured indirectly through proxy indicators.*
-
-In addition, because technologies are largely embodied in equipment and infrastructure, the project-cost indicator of participation includes the cost of physical assets as well as of technology, and may overstate the technology component, especially in capital-intensive port projects (Section 4.3.1).
-
-> *The port case (Section 4.5) uses total EU funding rather than total project cost. If you want, the same caution can be added there in one sentence: "EU funding measures the public support committed to the projects, which likewise covers equipment and demonstration activities as well as technology development."*
+> *Superseded by file 05 (05_Ch4_PT_project_cost_limitation), which answers the examiner's separate comment on PT and contains the final text for Sections 4.3.1, 4.3.3, 4.4.1, 4.5.2 and 4.6. Use that version instead of the earlier draft that was here.*
 
 ## D3. Chapter 5
 
