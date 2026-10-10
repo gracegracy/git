@@ -13,8 +13,8 @@ This session cannot reach the OECD and World Bank data servers (the network poli
 | 1 | Government incentives (GI) | GERD financed by government, as % of GDP | OECD Data Explorer → *Main Science and Technology Indicators (MSTI)* → "GERD financed by government as a percentage of GDP" | All 35 European sample countries + China + Singapore |
 | 2 | Innovation input (II) | GERD as % of GDP | OECD MSTI → "Gross domestic expenditure on R&D as a percentage of GDP" | same |
 | 3 | Innovation input (II) | Total researchers (FTE) per thousand total employment | OECD MSTI → "Total researchers per thousand total employment" | same |
-| 4 | Technology capability (TC) | Number of triadic patent families (priority year) | OECD MSTI → "Number of triadic patent families" | same |
-| 5 | Technology capability (TC) | High-technology exports (current US$) | World Bank WDI, code **TX.VAL.TECH.CD** | same |
+| 4 | Technology development level (TDL) | Number of triadic patent families (priority year) | OECD MSTI → "Number of triadic patent families" | same |
+| 5 | Technology development level (TDL) | High-technology exports (current US$) | World Bank WDI, code **TX.VAL.TECH.CD** | same |
 
 - OECD Data Explorer: https://data-explorer.oecd.org (search "MSTI")
 - World Bank WDI: https://data.worldbank.org/indicator/TX.VAL.TECH.CD
