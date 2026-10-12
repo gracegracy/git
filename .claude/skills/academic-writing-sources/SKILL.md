@@ -77,6 +77,7 @@ Unless the user asks otherwise:
 - Use a formal, measured register. Distinguish association from causation, and match the strength of a claim to the strength of the evidence and design.
 - Follow the spelling convention of the user's document (e.g., British English).
 - Be candid about limitations. A clearly stated boundary ("the coefficients apply only to the studied context") is more persuasive to examiners than an overclaim.
+- Write revised thesis or manuscript text as normal academic writing. Never mention reviewers, examiners, their comments or suggestions, or the revision process in the thesis text itself (no "as the reviewer suggested", "in response to the examiner"). Such statements belong only in the response letter.
 
 ## 6. What to report back to the user
 
